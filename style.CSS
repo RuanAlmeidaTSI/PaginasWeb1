@@ -161,23 +161,19 @@
 		margin-left: 5%;
 		margin-right: 5%;}
 
-	@media (max-width:768px){
+	@media (max-width:730px){
 		.imagem{
 		position: static;
-		
 		width:300px; 
-		height:90px;
+		height:100px;
 		}
-
 		body{
-			float: center;
 			width: auto;
 			background: url(https://naldzgraphics.net/wp-content/uploads/2012/08/1-Hi-Res.jpg); 
 			background-attachment: fixed;
 			background-size: 100%;
 			font-family: arial;
-			text-align: justify;
-			align-content: center; 
+			text-align: justify; 
 			font-size: 8px; 
 					}
 		#texto_corpo{
@@ -188,7 +184,7 @@
 		column-rule: 2px solid #000;
 		padding-left: 5%;
 		padding-right:30%;	
-	}
+				}
 
 	}
 
